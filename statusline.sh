@@ -41,7 +41,7 @@ used_color() {
 # Purple to red as effort rises
 effort_color() {
   case "$1" in
-    low) c 93 ;; medium) c 177 ;; high) c 168 ;; xhigh) c 197 ;; max) c 196 ;; *) c 15 ;;
+    low) c 93 ;; medium) c 177 ;; high) c 162 ;; xhigh) c 197 ;; max) c 196 ;; *) c 15 ;;
   esac
 }
 
