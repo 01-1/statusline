@@ -26,7 +26,7 @@ Then add to `~/.claude/settings.json`:
 ## What it shows
 
 ```
-~/code/statusline i@o | O5.5 high, conx 341k/34%, 5h 47%/2h01m, 7d 43%/3d00h, up 48m31s [20:44:55] +412 -87 cache 99% api 8m18s in 338.0k out 21.4k, style default, fast off, v2.1.311
+~/code i@o | O5.5 high, conx 341k/34%, 5h 47%/2h01m, 7d 43%/3d00h, up 48m31s [20:44:55] +412 -87 cache 99% api 8m18s in 338.0k out 21.4k, style default, fast off, v2.1.311
 ```
 
 | Field | Meaning |

@@ -108,4 +108,4 @@ segs+=("${run[*]}")
 [ -n "$version" ] && segs+=("$(c 8)v$(c 183)${version}")
 
 join() { local IFS=$'\x1e'; local s="$*"; printf '%s' "${s//$'\x1e'/$(c 8), }"; }
-printf '%s %s%s %s %s%s' "$(c 118)${dir}" "$(c 183)" "$(whoami)@$(hostname -s)" "$(c 8)|" "$(join "${segs[@]}")" "$r"
+printf '%s %s%s %s %s%s' "$(c 15)${dir}" "$(c 183)" "$(whoami)@$(hostname -s)" "$(c 8)|" "$(join "${segs[@]}")" "$r"
