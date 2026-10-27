@@ -2,7 +2,7 @@
 
 A one-line, color-coded status line for [Claude Code](https://code.claude.com/docs/en/statusline): context use, 5-hour and 7-day usage limits with burn-rate warnings, session stats, and effort level.
 
-![Three example status lines at low, high and max effort, with usage colors going from green to red](assets/statusline.svg)
+![Three example status lines at low, high and max effort, with usage colors going from green to red](assets/statusline-colors.svg)
 
 ## Install
 
