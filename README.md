@@ -31,7 +31,7 @@ Then add to `~/.claude/settings.json`:
 
 | Field | Meaning |
 | --- | --- |
-| `~/code/statusline i@o` | Current directory and user@host |
+| `~/code i@o` | Current directory and user@host |
 | `O5.5 high` | Model (first letter and version) and effort level |
 | `conx 341k/34%` | Tokens in the current context and the share of the context window used |
 | `5h 47%/2h01m` | 5-hour usage limit used, and time until it resets |
